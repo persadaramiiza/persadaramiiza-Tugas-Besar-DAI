@@ -14,15 +14,6 @@ Setiap algoritma diuji minimal tiga kali dan hasilnya divisualisasikan melalui g
 ## ⚙️ Struktur Folder  
 ```
 ├── src/
-│   ├── hill_climbing.py
-│   ├── simulated_annealing.py
-│   ├── genetic_algorithm.py
-│   └── utils.py
-├── doc/
-│   └── laporan_TB1_IF3070.pdf
-├── data/
-│   └── sample_input.json
-└── README.md
 ````
 
 ## 🚀 Cara Menjalankan Program  
