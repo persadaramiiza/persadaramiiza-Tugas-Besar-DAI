@@ -30,7 +30,7 @@ Setiap algoritma diuji minimal tiga kali dan hasilnya divisualisasikan melalui g
    ```
 4. Jalankan salah satu algoritma experiment dengan jupyternotebook, 
 ## 📊 Output Program
-
 * Visualisasi *state* awal dan akhir
 * Plot nilai *objective function* terhadap iterasi
 * Waktu eksekusi dan hasil perbandingan algoritma
+* https://colab.research.google.com/drive/1hf3z25rMhGl8QOhynkimDKCEVUbaRsGO?usp=sharing (untuk histori perubahan pada file source code)
