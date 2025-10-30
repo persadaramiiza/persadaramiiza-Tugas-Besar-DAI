@@ -14,6 +14,7 @@ Setiap algoritma diuji minimal tiga kali dan hasilnya divisualisasikan melalui g
 ## ⚙️ Struktur Folder  
 ```
 ├── src/
+├── docs/
 ````
 
 ## 🚀 Cara Menjalankan Program  
@@ -27,12 +28,7 @@ Setiap algoritma diuji minimal tiga kali dan hasilnya divisualisasikan melalui g
    ```bash
    pip install -r requirements.txt
    ```
-4. Jalankan salah satu algoritma, contoh:
-
-   ```bash
-   python src/hill_climbing.py
-   ```
-
+4. Jalankan salah satu algoritma experiment dengan jupyternotebook, 
 ## 📊 Output Program
 
 * Visualisasi *state* awal dan akhir
